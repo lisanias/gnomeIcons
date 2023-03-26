@@ -2,4 +2,4 @@
 
 Repositório de icons personalizados para o tema padrão do Gnome
 
-Repository of custom icons for the default Gnome theme
+_Repository of custom icons for the default Gnome theme_
