@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   fill="none"
+   version="1.1"
+   id="svg1566"
+   sodipodi:docname="folder-ampulheta-cor.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1568"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.2285156"
+     inkscape:cx="256.407"
+     inkscape:cy="256.407"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1566"
+     showguides="true">
+    <sodipodi:guide
+       position="156,356"
+       orientation="-1,0"
+       id="guide4544"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="356,156"
+       orientation="-1,0"
+       id="guide4662"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="214.07949,316"
+       orientation="0,1"
+       id="guide4664"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="477.89825,116"
+       orientation="0,1"
+       id="guide4666"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <g
+     opacity="0.2"
+     filter="url(#filter0_f_201_13)"
+     id="g1524">
+    <path
+       d="M88 50C88 50 48 50 48 90L47.9648 218H47.998L47.9648 466.094L424 466C464 466 464 426 464 426V218V170V122C464 122 464 82 424 82H224L192 50H88Z"
+       fill="#408AE5"
+       id="path1522" />
+  </g>
+  <path
+     d="M192 48H88C88 48 48 48 48 88V216H464V120C464 120 464 80 424 80H224L192 48Z"
+     fill="url(#paint0_linear_201_13)"
+     id="path1526" />
+  <g
+     opacity="0.1"
+     filter="url(#filter1_f_201_13)"
+     id="g1530">
+    <path
+       d="M256 132L224 164H88C88 164 48 164 48 204V468H424C464 468 464 428 464 428V172C464 132 424 132 424 132H256Z"
+       fill="#408AE5"
+       id="path1528" />
+  </g>
+  <path
+     d="M256 128L224 160H88C88 160 48 160 48 200V464H424C464 464 464 424 464 424V168C464 128 424 128 424 128H256Z"
+     fill="url(#paint1_linear_201_13)"
+     id="path1532" />
+  <path
+     d="M464 418C464 418 464 458 424 458L48.0019 458.094L47.998 464.094L424 464C464 464 464 424 464 424V418Z"
+     fill="#99C1F1"
+     id="path1534" />
+  <path
+     opacity="0.3"
+     d="M256 128L224 160H88C88 160 48 160 48 200V204C48 164 88 162 88 162H224.591L256.591 130H424C429.38 130 464 132 464 172V168C464 128 424 128 424 128H256Z"
+     fill="white"
+     id="path1536" />
+  <defs
+     id="defs1564">
+    <filter
+       id="filter0_f_201_13"
+       x="43.8042"
+       y="45.8394"
+       width="424.356"
+       height="424.415"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood1540" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend1542" />
+      <feGaussianBlur
+         stdDeviation="2.08032"
+         result="effect1_foregroundBlur_201_13"
+         id="feGaussianBlur1544" />
+    </filter>
+    <filter
+       id="filter1_f_201_13"
+       x="10.4"
+       y="94.4"
+       width="491.2"
+       height="411.2"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood1547" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend1549" />
+      <feGaussianBlur
+         stdDeviation="18.8"
+         result="effect1_foregroundBlur_201_13"
+         id="feGaussianBlur1551" />
+    </filter>
+    <linearGradient
+       id="paint0_linear_201_13"
+       x1="48"
+       y1="132"
+       x2="464"
+       y2="132"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#3584E4"
+         id="stop1554" />
+      <stop
+         offset="1"
+         stop-color="#62A0EA"
+         id="stop1556" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_201_13"
+       x1="152.898"
+       y1="173.203"
+       x2="447.309"
+       y2="528"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#99C1F1"
+         id="stop1559" />
+      <stop
+         offset="1"
+         stop-color="#C3E5E7"
+         id="stop1561" />
+    </linearGradient>
+  </defs>
+  <g
+     id="icon"
+     transform="matrix(2.3818413,0,0,2.3818413,97.932589,161.85906)">
+    <path
+       d="m 89.839,90.973 c 0,19.7 -11.591,11.678 -25.866,11.678 -14.257,0 -25.812,8.018 -25.812,-11.678 0,-8.939 18.375,-22.848 24.125,-26.966 -5.75,-4.117 -24.125,-18.041 -24.125,-26.98 0,-19.681 11.555,-11.678 25.812,-11.678 14.275,0 25.866,-8 25.866,11.678 0,8.939 -18.411,22.863 -24.179,26.98 5.768,4.118 24.179,18.027 24.179,26.966 z"
+       fill="#eeefee"
+       opacity="0.7"
+       id="path1437" />
+    <g
+       opacity="0.5"
+       id="g1441">
+      <path
+         d="m 79.87,45.858 a 0.855,0.855 0 0 1 -0.637,-1.423 c 4.293,-4.81 4.626,-6.886 4.626,-7.407 a 0.855,0.855 0 0 1 1.709,0 c 0,2.376 -2.751,5.958 -5.06,8.545 a 0.855,0.855 0 0 1 -0.638,0.285 z"
+         fill="#ffffff"
+         id="path1439" />
+    </g>
+    <path
+       d="m 88.446,92.967 c 0,15.807 -8.587,7.967 -24.481,7.967 -15.841,0 -24.411,7.84 -24.411,-7.967 0,-5.206 24.716,-20.852 24.716,-20.852 0,0 24.176,15.646 24.176,20.852 z"
+       fill="#f6b863"
+       id="path1443" />
+    <path
+       d="m 81.152,49.223 -0.376,0.376 A 123.051,123.051 0 0 1 65.008,62.616 l -0.718,0.5 -0.7,-0.5 C 56.774,57.8 49.257,51.58 44.542,46.011 44.252,45.67 43.978,45.345 43.722,45.003 a 22.555,22.555 0 0 1 17.767,0.786 l 0.064,0.03 A 31.11,31.11 0 0 0 71.811,48.4 Z"
+       fill="#f6b863"
+       id="path1445" />
+    <rect
+       fill="#575b6d"
+       height="7.9099998"
+       rx="1.7079999"
+       width="60.712002"
+       x="33.644001"
+       y="23"
+       id="rect1447" />
+    <rect
+       fill="#575b6d"
+       height="7.9099998"
+       rx="1.7079999"
+       width="60.712002"
+       x="33.644001"
+       y="97.089996"
+       id="rect1449" />
+    <path
+       d="m 63.696,61.171 h 1.147 v 14.628 h -1.147 z"
+       fill="#f6b863"
+       id="path1451" />
+  </g>
+</svg>
